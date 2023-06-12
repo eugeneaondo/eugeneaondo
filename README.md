@@ -1,5 +1,3 @@
-<!-- <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png"> -->
-
 <h2> Hey there! I'm Eugene Aondo Nyamari.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -31,12 +29,8 @@
 
 <br/>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
 <p align="center">
-<a href="https://www.nyamarixcode.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/eugene-aondo-b1778b161/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-
-<a href="mailto:eugeneaondo11@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.nyamarixcode.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.nyamarixcode.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/eugene-aondo-b1778b161/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Eugene%20Aondo%20Nyamari-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:eugeneaondo11@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-eugeneaondo11@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-
