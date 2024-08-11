@@ -33,6 +33,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="center">
 <a href="https://www.nyamarixcode.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.nyamarixcode.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/eugene-aondo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Eugene%20Aondo%20Nyamari-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/eugene-nyamari/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Eugene%20Aondo%20Nyamari-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:eugeneaondo11@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-eugeneaondo11@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
